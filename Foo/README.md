@@ -14,7 +14,7 @@ Foo/
 |   |-- __main__.py
 |
 |-- docs/
-|   |-- conf.py
+|   |-- config.py
 |   |-- abc.rst
 |
 |-- setup.py
