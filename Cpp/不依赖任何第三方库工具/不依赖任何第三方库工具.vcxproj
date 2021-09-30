@@ -142,6 +142,7 @@
     <ClCompile Include="..\JxTBox_Head.h" />
     <ClCompile Include="..\JxTBox_Main.cpp" />
     <ClCompile Include="IO读写文件.cpp" />
+    <ClCompile Include="No3rdLibTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
