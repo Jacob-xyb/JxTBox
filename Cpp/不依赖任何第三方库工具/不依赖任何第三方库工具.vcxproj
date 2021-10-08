@@ -141,8 +141,12 @@
   <ItemGroup>
     <ClCompile Include="..\JxTBox_Head.h" />
     <ClCompile Include="..\JxTBox_Main.cpp" />
-    <ClCompile Include="IO读写文件.cpp" />
-    <ClCompile Include="No3rdLibTest.cpp" />
+    <ClCompile Include="IOReadFile.cpp" />
+    <ClCompile Include="JxCout.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IOReadFile.h" />
+    <ClInclude Include="JxCout.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

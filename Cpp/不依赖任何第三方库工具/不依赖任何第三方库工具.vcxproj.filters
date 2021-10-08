@@ -21,11 +21,19 @@
     <ClCompile Include="..\JxTBox_Head.h">
       <Filter>头文件</Filter>
     </ClCompile>
-    <ClCompile Include="IO读写文件.cpp">
+    <ClCompile Include="IOReadFile.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
-    <ClCompile Include="No3rdLibTest.cpp">
+    <ClCompile Include="JxCout.cpp">
       <Filter>资源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JxCout.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IOReadFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
